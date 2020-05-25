@@ -1,0 +1,30 @@
+h1{
+    color: rgb(6, 68, 6);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+}
+body{
+    background-image: url(https://artelista.s3.amazonaws.com/obras/big/6/3/5/6360705778155188.jpg);
+}
+h2{
+    color: navy;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+}
+h3{
+    color: navy;
+    text-align: center;
+    background-color: skyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+}
+table{
+    padding: 15px;
+}
+tr, th{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: skyblue;
+}
